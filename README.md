@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yaldashafaq"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yalda-shafaq-225a322b3"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -14,7 +14,6 @@
 ### 👨‍💻 **About Me**
 - 🚀 Front-End Developer | JavaScript | React | Next.js  
 - 🌍 Founder of a web development company  
-- 📚 Currently learning **Node.js, Python, and Java**  
 - 💡 Passionate about building scalable **web & mobile applications**  
 - 💼 Looking for **remote developer jobs & freelance projects**  
 - 🎯 Goal: To become a **full-stack & mobile developer**  
