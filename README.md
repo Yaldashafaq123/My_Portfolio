@@ -33,13 +33,13 @@
 🌟 **Vanilla JS App** - A dynamic JavaScript-based web application.  
 🌟 **Android Mobile App** - A feature-rich mobile app built with Kotlin.  
 
-📌 **Check out my projects:** [GitHub Repositories](https://github.com/YaldaShafaq?tab=repositories)  
+📌 **Check out my projects:** [GitHub Repositories](https://github.com/Yaldashafaq123?tab=repositories)  
 
 ---
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaldaShafaq&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaldashafaq123&theme=tokyonight" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=YaldaShafaq&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
@@ -47,7 +47,7 @@
 ---
 
 ### 🤝 **Let's Connect!**
-💌 Reach out to me via **[Email](mailto:your.email@example.com)** or **[LinkedIn](https://linkedin.com/in/yourprofile)**.  
+💌 Reach out to me via **[Email](mailto:your.email@example.com)** or **[LinkedIn](https://linkedin.com/in/yalda-shafaq-225a322b3)**.  
 🌐 Check out my **[Portfolio](https://your-portfolio-link.com)** for more details!  
 
 ---
